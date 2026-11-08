@@ -7,4 +7,4 @@ Yapay Zekâ Okulum (YZO) tarafından hazırlanan EBA uyumlu SCORM 1.2 etkileşim
 - Tarayıcıda çalıştırmak için: GitHub Pages bağlantısını açınız (`index.html`).
 - EBA'ya yüklemek için: `BTY941_AlgoritmaRontgeni_SCORM.zip` dosyasını kullanınız.
 
-İçerik: beyaz kutu, siyah kutu, birleşim testi, sınır değer analizi; statik, dinamik ve adım adım akış diyagramı testleri; eşleştirme etkinliği ve değerlendirme. 3D görseller Blender ile üretilmiştir.
+İçerik: beyaz kutu, siyah kutu, birleşim testi, sınır değer analizi; statik, dinamik ve adım adım akış diyagramı testleri; eşleştirme etkinliği. Görsel ağırlıklı, kısa metinli 12 ekrandan oluşur. Puanlama yoktur; içerik bitince EBA'ya "tamamlandı" bilgisi gönderilir. 3D görseller Blender ile üretilmiştir.
